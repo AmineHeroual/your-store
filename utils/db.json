@@ -1,0 +1,503 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Nike Air Presto Mid Utility",
+            "category": "Men's Shoes",
+            "models": [
+                {
+                    "modelId": 1,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/57c35373-7894-4e46-bf81-44071026aecd/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/69e5fef4-3776-484e-a1a8-0bf38b7b7e40/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b1cfa408-ace7-4b83-82b7-c68a1ef40781/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/505c533f-fb56-4486-94d0-ed293834b0b3/air-presto-mid-utility-mens-shoes-5Q7PsF.png"
+                    ],
+                    "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14],
+                    "newPrice": "$108.97",
+                    "oldPrice": "$155",
+                    "description": "Don't worry about the shift from sunny days to winter months in the Nike Air Presto Mid Utility. Crafted with stretchy fabric on the upper that's designed to help you stay dry, it delivers extra toughness. Its warm liner keeps that favorite T-shirt comfort you know.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Anthracite/Summit White/ Particle Grey/University Blue",
+                        "Style: DC8751-002"
+                    ]
+                },
+                {
+                    "modelId": 2,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a1e114f9-f9dc-423b-812f-b2768dd19c7f/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/384846bf-f132-4e5c-95ee-b4aee53e8c82/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3f2944d4-6fcd-44be-9a45-1bee6d9ead27/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/0855f581-b660-43d0-bc11-8d4856c74806/air-presto-mid-utility-mens-shoes-5Q7PsF.png"
+                    ],
+                    "sizes": [8],
+                    "newPrice": "$73.97",
+                    "oldPrice": "$150",
+                    "description": "Don't worry about the shift from sunny days to winter months in the Nike Air Presto Mid Utility. Crafted with stretchy fabric on the upper that's designed to help you stay dry, it delivers extra toughness. Its warm liner keeps that favorite T-shirt comfort you know.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Orange/Black/White/Orange",
+                        "Style: DC8751-800"
+                    ]
+                },
+                {
+                    "modelId": 3,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/87df3598-c8f8-40aa-9d49-4ab5a9773e52/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e405b448-c830-4a2d-9f76-e72d355c78fb/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7cdf6cd6-a8d3-48db-a02a-99222190b7c9/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4b09b914-6ac7-4446-a97d-b5c917bfc184/air-presto-mid-utility-mens-shoes-5Q7PsF.png"
+                    ],
+                    "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14],
+                    "newPrice": "$139.97",
+                    "oldPrice": "$155",
+                    "description": "Don't worry about the shift from sunny days to winter months in the Nike Air Presto Mid Utility. Crafted with stretchy fabric on the upper that's designed to help you stay dry, it delivers extra toughness. Its warm liner keeps that favorite T-shirt comfort you know.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Black/Black",
+                        "Style: DC8751-003"
+                    ]
+                },
+                {
+                    "modelId": 4,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ac040d2b-97cc-402e-a5b1-5c991e6e2b6b/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3845e997-3ac2-461b-92f6-82bc7e680d7e/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1581e2fc-bc3a-4d8c-ab89-4f67ae80c178/air-presto-mid-utility-mens-shoes-5Q7PsF.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5d3487ab-54ae-496b-8796-8390904adef5/air-presto-mid-utility-mens-shoes-5Q7PsF.png"
+                    ],
+                    "sizes": [7, 8, 10, 13],
+                    "newPrice": "$108.97",
+                    "oldPrice": "$155",
+                    "description": "Don't worry about the shift from sunny days to winter months in the Nike Air Presto Mid Utility. Crafted with stretchy fabric on the upper that's designed to help you stay dry, it delivers extra toughness. Its warm liner keeps that favorite T-shirt comfort you know.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Baroque Brown/Sesame/Sequoia/Canyon Rust",
+                        "Style: DC8751-200"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Nike Air Max Alpha Trainer 5",
+            "category": "Men's Shoes",
+            "models": [
+                {
+                    "modelId": 1,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/a162ca4b-a442-4182-bfa0-4be07063e623/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/d48341b1-8e57-49ac-9263-5483712d150b/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fe82d02d-dbc3-42ea-ae65-3fc9f50163b7/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/34ebe4ea-4b82-4f82-b5c9-69419afd7d3a/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png"
+                    ],
+                    "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                    "newPrice": "$69.97",
+                    "oldPrice": "$90",
+                    "description": "Finish your last rep with power and rack it with a roar that stuns the gym floor in the Nike Air Max Alpha Trainer 5. Max Air cushioning offers comfortable stability for lifting whether it’s a light or heavy day. A wide, flat base gives you enhanced stability and grip for all kinds of tough workouts without sacrificing style, as you roam from station to station and set to set.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Durable, breathable mesh in upper",
+                        "Heel pull tab",
+                        "Shown: Pure Platinum/Black/Green Abyss/Volt",
+                        "Style: DM0829-005"
+                    ]
+                },
+                {
+                    "modelId": 2,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/940d527a-2ec4-4f11-9bc8-7c800da58b66/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/38fb2107-fba1-441b-b639-fdf5a923201b/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/37d899cb-efd5-4ec1-b180-9f33dbbc0437/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5e2216d9-96a0-430b-b640-97dc19b4a1fd/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png"
+                    ],
+                    "sizes": [8],
+                    "newPrice": "$90.97",
+                    "oldPrice": "$150",
+                    "description": "Finish your last rep with power and rack it with a roar that stuns the gym floor in the Nike Air Max Alpha Trainer 5. Max Air cushioning offers comfortable stability for lifting whether it’s a light or heavy day. A wide, flat base gives you enhanced stability and grip for all kinds of tough workouts without sacrificing style, as you roam from station to station and set to set.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Iron Grey/Black/Gum Medium Brown/Phantom",
+                        "Style: DM0829-008"
+                    ]
+                },
+                {
+                    "modelId": 3,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7f6133f8-52c8-4b28-b0f1-066c58dff6fc/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/5ede0b00-e93e-4f6b-aa9f-9852c54a41b1/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4c75c9e6-62a8-48d4-883d-e9703f3873d3/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e0d0a6e0-fb99-488c-80b1-eb582c72b97d/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png"
+                    ],
+                    "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14],
+                    "newPrice": "$90.97",
+                    "oldPrice": "$155",
+                    "description": "Finish your last rep with power and rack it with a roar that stuns the gym floor in the Nike Air Max Alpha Trainer 5. Max Air cushioning offers comfortable stability for lifting whether it’s a light or heavy day. A wide, flat base gives you enhanced stability and grip for all kinds of tough workouts without sacrificing style, as you roam from station to station and set to set.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: White/Bright Crimson/Obsidian",
+                        "Style: DM0829-102"
+                    ]
+                },
+                {
+                    "modelId": 4,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/05ecb631-d5d9-4de7-9bac-80a460617586/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b5ef8790-2753-4205-8ef7-9d39db53ea15/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/3da2885e-c3ef-4463-bdb7-f31dcbf9ca65/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/48052fc4-5329-4b3f-b6cf-be699d0d97fc/air-max-alpha-trainer-5-mens-training-shoes-7LjRM6.png"
+                    ],
+                    "sizes": [7, 8, 10, 13],
+                    "newPrice": "$76.97",
+                    "oldPrice": "$90",
+                    "description": "Finish your last rep with power and rack it with a roar that stuns the gym floor in the Nike Air Max Alpha Trainer 5. Max Air cushioning offers comfortable stability for lifting whether it’s a light or heavy day. A wide, flat base gives you enhanced stability and grip for all kinds of tough workouts without sacrificing style, as you roam from station to station and set to set.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Sail/Anthracite/Blue Lightning/Hyper Royal",
+                        "Style: DM0829-100"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Nike In-Season TR 13",
+            "category": "Men's Shoes",
+            "models": [
+                {
+                    "modelId": 1,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8effa766-9f56-48bf-8a28-6da62ea2ae18/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e08e47a3-d51c-4e25-b7f5-4f76c02f8e30/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/246b4899-6f22-4dac-8a61-f7a5a4807aef/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/88627686-2b0b-4124-9497-c9f783f9a31b/in-season-tr-13-mens-training-shoes-ZTJnXG.png"
+                    ],
+                    "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                    "newPrice": "$80",
+                    "oldPrice": "$120",
+                    "description": "When time is of the essence, but your workout can't wait any longer, ride with the Nike In-Season TR 13. It offers versatility, the kind that can carry you from a hard-hitting HIIT class to the treadmill and turn a squeezed-in gym session into sweat-soaked satisfaction. Whether you’re moving laterally or deepening your cardio base by reeling in a few miles in front of you, the energy return helps you reap what you sow.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Durable, breathable mesh in upper",
+                        "Heel pull tab",
+                        "Shown: Smoke Grey/Light Smoke Grey/Dark Smoke Grey/White",
+                        "Style: DZ9360-003"
+                    ]
+                },
+                {
+                    "modelId": 2,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c89ed159-7f6d-4e17-849d-588c5cc611bf/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/6311865e-3eb1-470c-8f98-349450522e82/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ee4f842a-adab-4c86-a556-1d75866fefc2/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/2507c4d2-5d1e-4315-bca6-7101d49d5a69/in-season-tr-13-mens-training-shoes-ZTJnXG.png"
+                    ],
+                    "sizes": [8],
+                    "newPrice": "$90.97",
+                    "oldPrice": "$150",
+                    "description": "When time is of the essence, but your workout can't wait any longer, ride with the Nike In-Season TR 13. It offers versatility, the kind that can carry you from a hard-hitting HIIT class to the treadmill and turn a squeezed-in gym session into sweat-soaked satisfaction. Whether you’re moving laterally or deepening your cardio base by reeling in a few miles in front of you, the energy return helps you reap what you sow.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Iron Grey/Black/Gum Medium Brown/Phantom",
+                        "Style: DM0829-008"
+                    ]
+                },
+                {
+                    "modelId": 3,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1062bc4b-f111-4e22-917e-a36fe72691e2/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/980c4a6e-34c3-4d38-8d38-c752ce75acf7/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9c87f16e-14d6-4275-a4c1-9ccd9b0b1628/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b5d00e4d-9b3e-4933-999f-f3f748e0d13c/in-season-tr-13-mens-training-shoes-ZTJnXG.png"
+                    ],
+                    "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14],
+                    "newPrice": "$70.97",
+                    "oldPrice": "$150",
+                    "description": "When time is of the essence, but your workout can't wait any longer, ride with the Nike In-Season TR 13. It offers versatility, the kind that can carry you from a hard-hitting HIIT class to the treadmill and turn a squeezed-in gym session into sweat-soaked satisfaction. Whether you’re moving laterally or deepening your cardio base by reeling in a few miles in front of you, the energy return helps you reap what you sow.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Black/Anthracite/White",
+                        "Style: DZ9360-001"
+                    ]
+                },
+                {
+                    "modelId": 4,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/466933c8-0ba5-4f5a-96cc-e94a7f5171e4/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e1a2f9e0-5bcc-4e8a-8383-3781c7ffe30b/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ba50a85f-98b2-4086-9adf-33428be30e8d/in-season-tr-13-mens-training-shoes-ZTJnXG.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/9340ffa5-4031-4ce6-b739-af80381dd0f1/in-season-tr-13-mens-training-shoes-ZTJnXG.png"
+                    ],
+                    "sizes": [7, 8, 10, 13, 15],
+                    "newPrice": "$86.97",
+                    "oldPrice": "$150",
+                    "description": "When time is of the essence, but your workout can't wait any longer, ride with the Nike In-Season TR 13. It offers versatility, the kind that can carry you from a hard-hitting HIIT class to the treadmill and turn a squeezed-in gym session into sweat-soaked satisfaction. Whether you’re moving laterally or deepening your cardio base by reeling in a few miles in front of you, the energy return helps you reap what you sow.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Phantom/Flat Pewter/Green Strike",
+                        "Style: DZ9360-002"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Nike Air Max 270",
+            "category": "Men's Shoes",
+            "models": [
+                {
+                    "modelId": 1,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/08de128a-b6c9-4543-8339-cdf0281ab95a/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/bb7e15b5-3938-4dff-84ab-c105f49f0c78/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/dfedefad-22d8-4202-9bb3-e986b188cc9e/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ff29efe9-69f4-4047-9aa3-b944183953f0/air-max-270-mens-shoes-KkLcGR.png"
+                    ],
+                    "sizes": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+                    "newPrice": "$160.97",
+                    "oldPrice": "$200",
+                    "description": "Legendary Air gets lifted. Nike's first lifestyle Air Max brings you style, comfort and a big Air bubble. With its large window and fresh array of colors, it lets you showcase one of Nike's greatest innovations. The lightweight and airy upper and super low-cut collar make it the perfect go-to for warm-weather fun.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Durable, breathable mesh in upper",
+                        "Heel pull tab",
+                        "Shown: White/Industrial Blue/Blue Lightning/Citron Pulse",
+                        "Style: FJ4000-100"
+                    ]
+                },
+                {
+                    "modelId": 2,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/61e0434d-ce3d-4a5f-8d66-1059ef06e5a8/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/1e31acdf-0f8f-4b01-8ea8-43e49aa22abd/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b536012b-bfb8-43cb-9500-99594c2b971c/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e9a7adf8-d5dd-4524-93dd-f7792e911a71/air-max-270-mens-shoes-KkLcGR.png"
+                    ],
+                    "sizes": [8],
+                    "newPrice": "$160.97",
+                    "oldPrice": "$200",
+                    "description": "Legendary Air gets lifted. Nike's first lifestyle Air Max brings you style, comfort and a big Air bubble. With its large window and fresh array of colors, it lets you showcase one of Nike's greatest innovations. The lightweight and airy upper and super low-cut collar make it the perfect go-to for warm-weather fun.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Medium Olive/Oil Green/Metallic Silver/White",
+                        "Style: FJ0680-222"
+                    ]
+                },
+                {
+                    "modelId": 3,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/ff969cd5-81f5-40f2-94c1-9f08941c84bf/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/fa137fbd-73d7-4147-96d4-8612881f8318/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/c95dd6a7-353f-40df-ad92-862647fbfe2b/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/7ed8d4fe-60a2-4e8f-ac27-426931aff15c/air-max-270-mens-shoes-KkLcGR.png"
+                    ],
+                    "sizes": [6],
+                    "newPrice": "$90.97",
+                    "oldPrice": "$155",
+                    "description": "Legendary Air gets lifted. Nike's first lifestyle Air Max brings you style, comfort and a big Air bubble. With its large window and fresh array of colors, it lets you showcase one of Nike's greatest innovations. The lightweight and airy upper and super low-cut collar make it the perfect go-to for warm-weather fun.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: Midnight Navy/Bright Crimson/Black/White",
+                        "Style: FD0279-400"
+                    ]
+                },
+                {
+                    "modelId": 4,
+                    "images": [
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/8a9efd65-db93-482c-94f0-ad34a3b21265/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/efd99dbb-e604-42d8-acf6-ec6eb3e9fae0/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/86b4bbe3-7595-4319-abdc-69e293be483e/air-max-270-mens-shoes-KkLcGR.png",
+                        "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/b2969978-94ad-48c4-841e-8a60f52cd84b/air-max-270-mens-shoes-KkLcGR.png"
+                    ],
+                    "sizes": [8, 9, 10, 12, 13],
+                    "newPrice": "$160.97",
+                    "oldPrice": "$200",
+                    "description": "Legendary Air gets lifted. Nike's first lifestyle Air Max brings you style, comfort and a big Air bubble. With its large window and fresh array of colors, it lets you showcase one of Nike's greatest innovations. The lightweight and airy upper and super low-cut collar make it the perfect go-to for warm-weather fun.",
+                    "benefits": [
+                        "Stretchy upper is designed to help keep you dry and creates a cozy, sock-like fit.",
+                        "Iconic mid-foot cage adds contrast to the stretchy synthetic upper while helping support your foot.",
+                        "Nike Air technology absorbs impact for cushioning with every step.",
+                        "Zipper on the side adds easy on and off.",
+                        "Rugged outsole pattern enhances traction and durability.",
+                        "Foam midsole offers lightweight cushioning."
+                    ],
+                    "details": [
+                        "Rubber outsole",
+                        "Pull tab on front and back of collar",
+                        "Round laces",
+                        "5 dots on the midsole reference the Nike Alpha Project, which the OG Air Presto emerged from",
+                        "Plastic toe tip",
+                        "Shown: White/Hot Punch/Black",
+                        "Style: FD0283-100"
+                    ]
+                }
+            ]
+        }
+    ]
+}
