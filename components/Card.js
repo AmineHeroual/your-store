@@ -20,7 +20,7 @@ const Card = (props) => {
                     </h1>
                 </div>
             </div>
-            <div className="w-1/2 flex flex-col items-start justify-center gap-0 m-0">
+            <div className="w-1/2 flex flex-col items-start justify-center gap-0 mb-2">
                 <div>
                     <img
                         src={props.image}
